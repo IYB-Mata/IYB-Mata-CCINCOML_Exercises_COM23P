@@ -1,0 +1,6 @@
+Get 2 Cards
+
+check the sum of 2 cards
+
+hit IF the sum of 2 cards is below 13
+ELSE stand

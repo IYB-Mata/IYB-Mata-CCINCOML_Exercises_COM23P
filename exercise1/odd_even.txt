@@ -1,0 +1,6 @@
+num is equal to user input
+
+IF the given/user's numb is divisible by 2 and has the remainder equal to 0 OUTPUT "the number is even"
+
+ELSE OUTPUT "the number odd"
+
